@@ -1,0 +1,15 @@
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.exe
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.deps.json
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.runtimeconfig.json
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.dll
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\bin\Debug\net6.0\Example002_HelloUser.pdb
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.AssemblyReference.cache
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfoInputs.cache
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.AssemblyInfo.cs
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.csproj.CoreCompileInputs.cache
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.dll
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\obj\Debug\net6.0\refint\Example002_HelloUser.dll
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.pdb
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\obj\Debug\net6.0\Example002_HelloUser.genruntimeconfig.cache
+J:\gabr\Программирование\C# Знакомство\Examples\Example002_HelloUser\obj\Debug\net6.0\ref\Example002_HelloUser.dll
