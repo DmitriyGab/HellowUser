@@ -106,5 +106,6 @@ string Replace(string text, char oldValue, char newValue) // первая char -
     }
     return result;
 }
-string newText = Replace(text, " ", "/");
+// string newText = Replace(text, " ", "/"); // ошибка, так как стоят кавычки, а должны стоять опострафы
+string newText = Replace(text, ' ', '/');
 Console.WriteLine(newText);
